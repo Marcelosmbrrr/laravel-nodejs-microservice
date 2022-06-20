@@ -1,2 +1,2 @@
-# laravel-microservice
-This will be a microservice built with Laravel.
+# Microservice with Laravel and NodeJS
+This will be a microservice built with two APIS: the first built with Laravel and the second with NodeJS.
